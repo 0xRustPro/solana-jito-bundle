@@ -1,3 +1,3 @@
-Enquiry TG: https://t.me/emmarktech
+Enquiry TG: https://t.me/Rust0x_726
 
-Discord Community: https://discord.gg/UEmCAbhz9W
+
