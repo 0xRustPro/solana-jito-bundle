@@ -19,8 +19,8 @@ A high-performance Solana trading bot that uses **Jito Bundles** to submit multi
 
 Clone the repo and install dependencies:
 ```bash
-git clone https://github.com/your-username/jito-bundle-bot.git
-cd jito-bundle-bot
+git clone https://github.com/0xRustPro/solana-jito-bundle.git
+cd solana-jito-bundle
 npm install
 
 
